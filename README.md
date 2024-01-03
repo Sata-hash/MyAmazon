@@ -1,6 +1,7 @@
-<p align="center">
-
  <h3 align="center">Designed Amazon HomePage Just the Way I wanted it to be</h3>
+ <p align="center">
+
+ 
 <a href="https://my-amazon-jet.vercel.app/"><strong>View Live Demo »</strong></a>
 </p>
 
@@ -12,6 +13,7 @@
 
 ## 3.Made With...
 -->🚀️HTML for structuring the document.
+
 -->💎️CSS for design.
 
 
