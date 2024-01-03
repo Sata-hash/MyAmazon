@@ -1,10 +1,7 @@
-<h3 align='center'>Designed Amazon HomePage Just the Way I wanted it to be</h3>
 <p align="center">
 
-    
-    <a href="https://my-amazon-jet.vercel.app/"><strong>View Live Demo »</strong></a>
-    
- 
+ <h3 align="center">Designed Amazon HomePage Just the Way I wanted it to be</h3>
+<a href="https://my-amazon-jet.vercel.app/"><strong>View Live Demo »</strong></a>
 </p>
 
 ## 1. Home Page of Amazon...
@@ -12,4 +9,10 @@
 
 ## 2. Clickable Links provided...
 ![Links](https://github.com/Sata-hash/ShopForYou/assets/142712421/e6c75cb7-94e6-4245-9de2-43d201e82612)
+
+## 3.Made With...
+-->🚀️HTML for structuring the document.
+-->💎️CSS for design.
+
+
 
