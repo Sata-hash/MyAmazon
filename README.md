@@ -1,8 +1,6 @@
  <h3 align="center">Designed Amazon HomePage Just the Way I wanted it to be</h3>
  <p align="center">
-
- 
-<a href="https://my-amazon-jet.vercel.app/" align="center"><strong>View Live Demo »</strong></a>
+  <a href="https://my-amazon-jet.vercel.app/"><strong>View Live Demo »</strong></a>
 </p>
 
 ## 1. Home Page of Amazon...
